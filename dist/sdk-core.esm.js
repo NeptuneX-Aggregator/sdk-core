@@ -226,7 +226,7 @@ var BASE_GOERLI_ADDRESSES = {
 
 var BLAST_SEPOLIA_ADDRESSES = {
   v3CoreFactoryAddress: '0x9323c1d6D800ed51Bd7C6B216cfBec678B7d0BC2',
-  multicallAddress: '0xB206027a9E0E13F05eBEFa5D2402Bab3eA716439',
+  multicallAddress: '0x54c55551fEe014ec7C63F47Cd69f20e47ae178EB',
   quoterAddress: '0xedf539058e28E5937dAef3f69cEd0b25fbE66Ae9',
   v3MigratorAddress: '0x3efe5d02a04b7351D671Db7008ec6eBA9AD9e3aE',
   nonfungiblePositionManagerAddress: '0x3c61369ef0D1D2AFa70d8feC2F31C5D6Ce134F30',
